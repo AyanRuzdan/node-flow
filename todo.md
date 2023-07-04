@@ -1,0 +1,5 @@
+- [x] take input from user (BUT WHERE??? cin??? file??? python??? python to file???)
+- [ ] run algo which takes the values from the file
+- [ ] write the output in another file
+- [ ] read the output file back in python
+- [ ] run manim script accordingly
